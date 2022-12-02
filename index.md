@@ -6,7 +6,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Latrone Walters</title>
 </head>
-<body style="background-color: #D6E4E5;">
+    <style>
+
+    body{
+        background-color: #5c979b;
+    }
+
+    hr {
+        background-color: white;
+        border-style: none;
+        height: 1px;
+    }
+
+
+</style>
+<body>
     <table cellspacing="10">
         <tr>
             <td>
